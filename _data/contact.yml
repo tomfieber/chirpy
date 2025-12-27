@@ -2,23 +2,27 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/tomfieber"
+  noblank: false
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://twitter.com/pawpawhacks"
+  noblank: false
 
 - type: youtube
   icon: "fa-brands fa-youtube"
-  url: https://www.youtube.com/@pawpawhacks
-  noblank: true
+  url: "https://www.youtube.com/@pawpawhacks"
+  noblank: false
 
 - type: discord
   icon: "fa-brands fa-discord"
   url: "https://discord.gg/7zsQHWU6wy" # Fill with your Discord invite link
-  noblank: true
+  noblank: false
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: false # open link in current tab
 
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
@@ -26,7 +30,7 @@
 
 - type: rss
   icon: "fas fa-rss"
-  noblank: true
+  noblank: false
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
